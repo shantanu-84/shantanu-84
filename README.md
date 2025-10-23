@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs recently.<br>📚 I'm currently learning Blazor Server in .NET<br>🎯 Goals: In my current journey, building projects in .net technology, i really want to contribute which is recognized learning while journey of project building.<br>🎲 Fun fact: Use AI for assisting in project not building whole.</p>
+<p align="left">✨ Creating bugs recently.<br>📚 I'm currently learning Blazor Server in .NET<br>🎯 Goals: In my current journey, building projects in .net technology, i really want to contribute which is recognized learning while journey of project building.</p>
 
 ###
 
