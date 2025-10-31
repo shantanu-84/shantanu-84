@@ -7,9 +7,7 @@
 
 - 💬 Ask me about **C#,.NET Framework,Entity Framework,LINQ**
 
-- 📫 How to reach me **shantanurathod3864@gmail.com**
-
-- 📄 Know about my experiences [https://acesse.one/shantanu](https://acesse.one/shantanu)
+- 📫 You can reach me at>> **shantanurathod3864@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
